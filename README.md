@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jobeauthement
-- 👀 I’m interested in email development, content editing, Front End, Block Chain Technology, Data and Gaming .
+- 👀 I’m interested in Email Development, Content editing, Front End, Block Chain Technology, Data and Gaming .
 - 🌱 I enjoy doing projects in HTML, CSS, Javascript, SQL, Python, Tableau, and Excel.  I use many of my skills at my current job in the healthcare and insurance industry. I like to work smarter, not harder :)
 - 💞️ I’m looking to collaborate on email campaigns, front end projects, data analysis projects, and block chain projects
 - 📫 How to reach me at my email: jobeauthement@gmail.com
