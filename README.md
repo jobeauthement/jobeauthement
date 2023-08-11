@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jobeauthement
-- 👀 I’m interested in Email Development, Content editing(Shopify and Wordpress), Front End (HTML, CSS, Javascript, JQuery), Back End (PHP and Python), Data Analysis/Science (Python).
+- 👀 I’m interested in Back End (PHP/Laravel), Front End (HTML, CSS, Javascript, JQuery, Vue.js), Data Analysis/Science (Python).
 - 🌱 I enjoy doing projects in HTML, CSS, Javascript, SQL, PHP, and Python.
 - 💞️ I’m looking to collaborate on front end, back end projects and data analysis projects
 - You can view my web development portfolio at: https://jobecodes.dev/
